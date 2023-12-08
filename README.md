@@ -8,4 +8,4 @@ This work is dedicated to the _creation_, _anonymization_ and _hacking_ of data.
 
 ## Notes:
 - You should change ***anonymity*** from pycanon to get k_arr (it's not hard)
-- In Documentation folder folder you will find more detailed reports on each of the items above [RUS]. 
+- In Documentation folder you will find more detailed reports on each of the items above [RUS]. 
